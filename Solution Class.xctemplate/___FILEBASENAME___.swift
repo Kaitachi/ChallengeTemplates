@@ -5,7 +5,7 @@
 import ChallengeBase
 
 extension ___VARIABLE_challengeName:identifier___ {
-    class ___FILEBASENAME___ : ___VARIABLE_challengeName:identifier___, Solution {
+    class ___VARIABLE_solutionName___ : ___VARIABLE_challengeName:identifier___, Solution {
         // MARK: - Type Aliases
         typealias Input = [Int]
         typealias Output = Int

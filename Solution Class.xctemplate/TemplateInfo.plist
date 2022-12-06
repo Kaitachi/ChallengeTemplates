@@ -28,6 +28,18 @@
 			<key>Type</key>
 			<string>text</string>
 		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>solutionName</string>
+			<key>Required</key>
+			<true/>
+			<key>Name</key>
+			<string>Solution Name:</string>
+			<key>Description</key>
+			<string>The name of the Solution</string>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
 	</array>
 </dict>
 </plist>
